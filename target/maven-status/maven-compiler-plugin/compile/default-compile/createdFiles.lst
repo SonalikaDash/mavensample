@@ -1,0 +1,8 @@
+com\ocac\DAO\LoginDAO.class
+com\ocac\mavensample\AdminController.class
+com\ocac\mavensample\JSPPageController.class
+com\ocac\model\Register.class
+com\ocac\DAO\RegisterDAO.class
+com\ocac\model\Login.class
+com\ocac\DAO\RegisterDAOImpl.class
+com\ocac\DAO\LoginDAOImpl.class
